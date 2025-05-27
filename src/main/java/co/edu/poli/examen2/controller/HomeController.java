@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping("/")
     public String index() {
-        return "¡Aplicación desplegada exitosamente en Azure!";
+        return "¡Aplicación desplegada exitosamente en Azures!";
     }
 }
